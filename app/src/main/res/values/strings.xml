@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">My Intent Dicoding</string>
+    <string name="pindah_activity">pindah activity</string>
+    <string name="pindah_aktivity_dgn_data">pindah aktivity dengan data</string>
+    <string name="pindah_aktivity_dgn_objek">pindah aktivity dgn objek</string>
+    <string name="dial_number">dial number</string>
+    <string name="pindah_aktivity_untuk_hasil">pindah aktivity untuk hasil</string>
+    <string name="hasil_dari_aktivity">Hasil dari aktivity</string>
+    <string name="pindah_aktivity_berhasil">pindah aktivity berhasil</string>
+    <string name="pilih_angka">pilih angka</string>
+</resources>
